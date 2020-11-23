@@ -1,4 +1,4 @@
-# Sign Language for predicting English Alphabets using CNN
+# Sign Language for predicting English Alphabets
 
 ##### The dataset consists of the following:
 
